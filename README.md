@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Thanks for stopping by! Now go ahead and check out some of my half-finished projects :)
 <!--
 **AdelCSE/AdelCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
